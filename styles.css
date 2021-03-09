@@ -1,11 +1,22 @@
-<nav class="navbar navbar-dark bg-dark">
-  <!-- Navbar content -->
-</nav>
 
-<nav class="navbar navbar-dark bg-primary">
-  <!-- Navbar content -->
-</nav>
 
-<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
-  <!-- Navbar content -->
-</nav>
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	color: #04A5FC
+}
+
+.profile-photo {
+	width: 4rem
+	height auto;
+}
+
+.robscustomautocenter {
+	margin: auto;
+	width: 50%;
+
+	padding: 10px;
+  }
+
+body {
+	background-color: #0c0c0c;
+	font-family:
+}
