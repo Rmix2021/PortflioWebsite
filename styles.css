@@ -11,12 +11,28 @@
 
 .robscustomautocenter {
 	margin: auto;
-	width: 50%;
+	width: 85%;
 
 	padding: 10px;
   }
 
 body {
 	background-color: #0c0c0c;
-	font-family:
+
+}
+
+.img-fluid {
+    max-width: 30%;
+    height: auto;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
 }
